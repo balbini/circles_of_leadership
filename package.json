@@ -1,0 +1,27 @@
+{
+  "name": "galli_consulting_static",
+  "version": "1.0.0",
+  "description": "Galli Consulting Website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balbini/Galli_Consulting_Static.git"
+  },
+  "author": "Bryan Albini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balbini/Galli_Consulting_Static/issues"
+  },
+  "homepage": "https://github.com/balbini/Galli_Consulting_Static#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "nodemailer": "^4.4.1",
+    "npm": "^6.7.0"
+  }
+}
